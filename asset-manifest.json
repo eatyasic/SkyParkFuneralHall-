@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyparkfuneralhall/static/css/main.181a7b73.css",
-    "main.js": "/skyparkfuneralhall/static/js/main.c5813300.js",
+    "main.css": "/skyparkfuneralhall/static/css/main.ac09ad63.css",
+    "main.js": "/skyparkfuneralhall/static/js/main.597a9199.js",
     "static/media/background.png": "/skyparkfuneralhall/static/media/background.27f276e9b419baa8c302.png",
     "static/media/mainBackgroundImage.png": "/skyparkfuneralhall/static/media/mainBackgroundImage.3b4721815697be5eb599.png",
     "static/media/funeralEtiquette.png": "/skyparkfuneralhall/static/media/funeralEtiquette.6fa647773a03c77592f7.png",
@@ -75,11 +75,11 @@
     "static/media/n_right_arrow.svg": "/skyparkfuneralhall/static/media/n_right_arrow.27d14f6b1cfbbeac4f51.svg",
     "static/media/arrow.svg": "/skyparkfuneralhall/static/media/arrow.6e9bffb954641a6254d6.svg",
     "static/media/close.svg": "/skyparkfuneralhall/static/media/close.7df0e8394f9ca84338269033fd7c1a34.svg",
-    "main.181a7b73.css.map": "/skyparkfuneralhall/static/css/main.181a7b73.css.map",
-    "main.c5813300.js.map": "/skyparkfuneralhall/static/js/main.c5813300.js.map"
+    "main.ac09ad63.css.map": "/skyparkfuneralhall/static/css/main.ac09ad63.css.map",
+    "main.597a9199.js.map": "/skyparkfuneralhall/static/js/main.597a9199.js.map"
   },
   "entrypoints": [
-    "static/css/main.181a7b73.css",
-    "static/js/main.c5813300.js"
+    "static/css/main.ac09ad63.css",
+    "static/js/main.597a9199.js"
   ]
 }
