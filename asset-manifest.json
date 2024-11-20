@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/skyparkfuneralhall/static/css/main.685c91b9.css",
-    "main.js": "/skyparkfuneralhall/static/js/main.3a4dc5f3.js",
+    "main.css": "/skyparkfuneralhall/static/css/main.e437a4aa.css",
+    "main.js": "/skyparkfuneralhall/static/js/main.9777a284.js",
     "static/media/background.png": "/skyparkfuneralhall/static/media/background.27f276e9b419baa8c302.png",
     "static/media/mainBackgroundImage.png": "/skyparkfuneralhall/static/media/mainBackgroundImage.3b4721815697be5eb599.png",
     "static/media/funeralEtiquette.png": "/skyparkfuneralhall/static/media/funeralEtiquette.6fa647773a03c77592f7.png",
@@ -13,7 +13,7 @@
     "static/media/method.png": "/skyparkfuneralhall/static/media/method.d5b1e3df55567e7f5836.png",
     "static/media/4.png": "/skyparkfuneralhall/static/media/4.36b2b3782660758ae131.png",
     "static/media/1.png": "/skyparkfuneralhall/static/media/1.f1f174f01e089fe00689.png",
-    "static/media/2.png": "/skyparkfuneralhall/static/media/2.9ffbcc560c04a95ce695.png",
+    "static/media/2.png": "/skyparkfuneralhall/static/media/2.fc0a7f6921fe8d9b08e4.png",
     "static/media/3.png": "/skyparkfuneralhall/static/media/3.61d1e705605f58680a10.png",
     "static/media/park.png": "/skyparkfuneralhall/static/media/park.f90cfa4685b3afad7ef5.png",
     "static/media/crematoriumImg.png": "/skyparkfuneralhall/static/media/crematoriumImg.0ae29f6c84bd9a6afb22.png",
@@ -25,9 +25,9 @@
     "static/media/30s.png": "/skyparkfuneralhall/static/media/30s.905ab36c1c598ed1d427.png",
     "static/media/mainPageImage.png": "/skyparkfuneralhall/static/media/mainPageImage.cf90227b5a9ccdc218e6.png",
     "static/media/layingFlowersImg.png": "/skyparkfuneralhall/static/media/layingFlowersImg.c2d33568079815e3a84c.png",
+    "static/media/image 93.png": "/skyparkfuneralhall/static/media/image 93.d1782f24042a54529bb0.png",
     "static/media/8s.png": "/skyparkfuneralhall/static/media/8s.2ebfe12852bce01a9971.png",
     "static/media/square2.png": "/skyparkfuneralhall/static/media/square2.47fd258987c74ad55030.png",
-    "static/media/image 93.png": "/skyparkfuneralhall/static/media/image 93.d1f4e13b6f08492828f4.png",
     "static/media/image 92.png": "/skyparkfuneralhall/static/media/image 92.c85a321b6dc157bf70c6.png",
     "static/media/manHandOver.png": "/skyparkfuneralhall/static/media/manHandOver.78d6b1d6dd87f992953f.png",
     "static/media/image 116.png": "/skyparkfuneralhall/static/media/image 116.a5c7286bdc22981fbbc8.png",
@@ -77,11 +77,11 @@
     "static/media/close.svg": "/skyparkfuneralhall/static/media/close.7df0e8394f9ca84338269033fd7c1a34.svg",
     "static/media/prevArrow.svg": "/skyparkfuneralhall/static/media/prevArrow.bde634c6b3ba437c2fbf20c89a1bcfc3.svg",
     "static/media/nextArrow.svg": "/skyparkfuneralhall/static/media/nextArrow.31f86b0fc4e39deb316187720f234e40.svg",
-    "main.685c91b9.css.map": "/skyparkfuneralhall/static/css/main.685c91b9.css.map",
-    "main.3a4dc5f3.js.map": "/skyparkfuneralhall/static/js/main.3a4dc5f3.js.map"
+    "main.e437a4aa.css.map": "/skyparkfuneralhall/static/css/main.e437a4aa.css.map",
+    "main.9777a284.js.map": "/skyparkfuneralhall/static/js/main.9777a284.js.map"
   },
   "entrypoints": [
-    "static/css/main.685c91b9.css",
-    "static/js/main.3a4dc5f3.js"
+    "static/css/main.e437a4aa.css",
+    "static/js/main.9777a284.js"
   ]
 }
